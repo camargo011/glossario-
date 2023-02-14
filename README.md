@@ -1,10 +1,10 @@
 
-GLOSSÁRIO 
+#GLOSSÁRIO 
  
 
-A 
+**A** 
 
-Ascetismo: significa algo rígido, que buscar aperfeiçoamento espiritual. 
+**Ascetismo**: significa algo rígido, que buscar aperfeiçoamento espiritual. 
 
 Abutre: Pessoa que está esperando a morte ou desaparecimento de outro, pra tirar aproveito.  
 
