@@ -11,108 +11,135 @@ Abutre: Pessoa que está esperando a morte ou desaparecimento de outro, pra tira
 Açoite: Golpe aplicado com chicote/chicotada. 
 
 
-B 
 
-Braseiro: Fim de carvão queimado, ou cigarros/brasa.  
+**B**
 
-
-C 
+**Braseiro**: Fim de carvão queimado, ou cigarros/brasa.  
 
 
-D 
 
-Diáfano: Algo que permite a passagem da luz, ou muito magro sem substancias. 
+**C**
 
-Diapasão: Instrumento ou extensão de voz. 
+
+
+**D** 
+
+**Diáfano**: Algo que permite a passagem da luz, ou muito magro sem substancias. 
+
+**Diapasão**: Instrumento ou extensão de voz. 
  
 
-E 
 
-Embotou: insensibilizar, ou enfraquecer. 
+**E** 
 
-Escalpelar: Criticar, analisar profundamente. 
+**Embotou**: insensibilizar, ou enfraquecer. 
+
+**Escalpelar**: Criticar, analisar profundamente. 
 
  
-F 
+ 
+**F** 
 
-Furor: Significa raiva extrema. 
+**Furor**: Significa raiva extrema. 
 
-Fumegante: Que lança fumaça, ou algo muito quente. 
-
-
-G 
-
-Gonzo: Quando o narrador entre em ação.  
+**Fumegante**: Que lança fumaça, ou algo muito quente. 
 
 
-H 
 
-Hermeticamente: Um elemento bem lacrado, bem fechado.  
+**G** 
 
-Hediondo: Que provoca horror/medo/apavoro. 
-
-
-I 
+**Gonzo**: Quando o narrador entre em ação.  
 
 
-J 
+
+**H** 
+
+**Hermeticamente**: Um elemento bem lacrado, bem fechado.  
+
+**Hediondo**: Que provoca horror/medo/apavoro. 
 
 
-K 
+
+**I**
 
 
-L 
+
+**J**
 
 
-M 
 
-Morsa: Mamífero ou uma peça mecânica, que utilidade em fixar objetos através dos seus mordentes. 
-
-Matraqueando: Falar muito, sem parar.  
-
-N 
+**K** 
 
 
-O 
+
+**L** 
+
+
+
+**M** 
+
+**Morsa**: Mamífero ou uma peça mecânica, que utilidade em fixar objetos através dos seus mordentes. 
+
+**Matraqueando**: Falar muito, sem parar.  
+
+
+
+**N**
+
+
+
+**O** 
  
 
-P 
 
-Pendulo: Relógio antigo. 
+**P** 
 
-Q 
-
-
-R 
-
-Receou: Achar algo com um sentimento de previsão. 
+**Pendulo**: Relógio antigo. 
 
 
-S 
 
-Solicito: Que oferece ajuda, prestativo. Empenho e zelo. 
+**Q** 
+
+
+
+**R** 
+
+**Receou**: Achar algo com um sentimento de previsão. 
+
+
+
+**S** 
+
+**Solicito**: Que oferece ajuda, prestativo. Empenho e zelo. 
  
 
-T 
 
-Triunfo: Vitória em guerra, competir, uma disputa.
+**T** 
+
+**Triunfo**: Vitória em guerra, competir, uma disputa.
 
 
-U
+
+**U**
  
 
-V 
+
+**V** 
 
 
-W 
+
+**W** 
 
 
-X 
+
+**X** 
  
 
-Y 
+
+**Y**
  
 
-Z 
 
-Zumbir: Reproduzir um ruido.  
+**Z** 
+
+**Zumbir**: Reproduzir um ruido.  
