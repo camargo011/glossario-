@@ -111,7 +111,7 @@
 **S** 
 
 **Solicito**: Que oferece ajuda, prestativo. Empenho e zelo. 
- 
+ **Shortage**: traduzido é 'falta.
 
 
 **T** 
