@@ -6,9 +6,9 @@
 
 **Ascetismo**: significa algo rígido, que buscar aperfeiçoamento espiritual. 
 
-Abutre: Pessoa que está esperando a morte ou desaparecimento de outro, pra tirar aproveito.  
+**Abutre**: Pessoa que está esperando a morte ou desaparecimento de outro, pra tirar aproveito.  
 
-Açoite: Golpe aplicado com chicote/chicotada. 
+**Açoite**: Golpe aplicado com chicote/chicotada. 
 
 
 
